@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SI2323DS-T1-GE3
+D VISHAY - SI2323DS-T1-GE3 - P CHANNEL MOSFET, -20V, 4.7A TO-236, FULL REEL
+K
+F 
+$ENDCMP
+#
+$CMP CC0603KRX7R6BB103
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 10nF 10V X7R 10%
+K
+F 
+$ENDCMP
+#
+#End Doc Library

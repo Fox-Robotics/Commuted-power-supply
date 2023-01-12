@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS65131RGER
+D Conv DC-DC 2.7V to 5.5V Inv/Step Up Dual-Out -15V to -2V/3.2V to 15V 1.95A/1.95A 24-Pin VQFN EP T/R
+K
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps65130
+$ENDCMP
+#
+#End Doc Library

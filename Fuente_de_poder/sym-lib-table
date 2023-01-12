@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TPS65131RGET)(type Legacy)(uri ${KIPRJMOD}/KiCad/TPS65131RGET.lib)(options "")(descr ""))
+  (lib (name TB6612FNG)(type Legacy)(uri ${KIPRJMOD}/footprint_driver.pretty/TB6612FNG.lib)(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS65131RGET
+D Conv DC-DC Dual-OUT Inv/Step Up 24-Pin Texas Instruments TPS65131RGET, Dual Inverting, Step Up DC-DC Converter, 1.95A, Adjustable
+K
+F http://www.ti.com/lit/ds/symlink/tps65130.pdf
+$ENDCMP
+#
+#End Doc Library
